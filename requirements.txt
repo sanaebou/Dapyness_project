@@ -1,2 +1,2 @@
-freeglut3-dev
-libgtk2.0-dev
+pip install pipreqs
+pipreqs /home/project/location
