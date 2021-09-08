@@ -1,3 +1,2 @@
-/home/appuser/venv/bin/python -m pip install --upgrade pip
 streamlit==0.71.0
 scikit-learn==0.23.2
