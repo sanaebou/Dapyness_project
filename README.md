@@ -12,6 +12,7 @@ Ce projet, que nous avons décidé de nommer *Dapyness* (en référence aux lett
 Ce projet nous permet également de cultiver un **enjeu scientifique**. Effectivement, par le biais de ce projet, plusieurs modèles de prédiction ont été étudiés et explorés. Cela nous a permis d’être familier avec ces nombreuses méthodes et en connaître les différents aspects, notamment les avantages et les inconvénients.
 
 Ce projet a pu être réalisé sur une base de données (shape de “(541909,8)”) issue de la plateforme Kaggle pour atteindre nos objectifs. A savoir : https://www.kaggle.com/carrie1/ecommerce-data 
+
 Ces données sont disponibles librement sur Kaggle, ce qui nous a permis de télécharger le dataset afin de travailler en local. 
 
 ## Objectifs du projet
